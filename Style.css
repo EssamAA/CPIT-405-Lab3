@@ -1,0 +1,46 @@
+.image-preview img {
+    width: 200px;
+    height: 200px;
+    border-left: 30px solid #ffeed5;
+    border-right: 30px solid #ffb5c0;
+    border-top: 30px solid #85ceed;
+    border-bottom: 30px solid #8ef08b;
+
+}
+
+th{
+    padding-right: 250px;
+    border-bottom:1px solid black;
+    
+}
+
+tr,td{
+    border-bottom:1px solid black;
+    
+    
+  }
+
+ 
+
+ span{
+    color: green;
+ }
+
+ #hov:hover{
+    color: blue;
+ }
+ #hov2:hover{
+    color: green
+ }
+ #hov3:hover{
+    color: orange
+ }
+ 
+ #hov4:hover{
+    color: red;
+ }
+
+
+
+  
+  
