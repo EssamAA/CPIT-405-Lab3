@@ -28,16 +28,20 @@ tr,td{
 
  #hov:hover{
     color: blue;
+     font-weight: bold;
  }
  #hov2:hover{
     color: green
+        font-weight: bold;
  }
  #hov3:hover{
     color: orange
+        font-weight: bold;
  }
  
  #hov4:hover{
     color: red;
+     font-weight: bold;
  }
 
 
